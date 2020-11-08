@@ -31,3 +31,24 @@ build/
 
 ### VS Code ###
 .vscode/
+/.gitignore
+/src/main/resources/application.properties
+/src/main/java/com/spring/h2/api/exception/CustomExceptionHandler.java
+/src/main/resources/data.sql
+/src/main/java/com/spring/h2/api/model/Employee.java
+/src/main/java/com/spring/h2/api/controller/EmployeeController.java
+/src/test/java/com/spring/h2/api/controller/EmployeeControllerTest.java
+/src/main/java/com/spring/h2/api/exception/EmployeeNotFoundException.java
+/src/main/java/com/spring/h2/api/repository/EmployeeRepository.java
+/src/main/java/com/spring/h2/api/service/EmployeeService.java
+/src/main/java/com/spring/h2/api/service/EmployeeServiceImpl.java
+/src/main/java/com/spring/h2/api/dto/ErrorDetails.java
+/.mvn/wrapper/maven-wrapper.jar
+/.mvn/wrapper/maven-wrapper.properties
+/.mvn/wrapper/MavenWrapperDownloader.java
+/mvnw
+/mvnw.cmd
+/pom.xml
+/src/main/resources/schema.sql
+/src/main/java/com/spring/h2/api/SpringBootH2Application.java
+/src/test/java/com/spring/h2/api/SpringBootH2ApplicationTests.java
